@@ -2,3 +2,15 @@
     max-height: 250px;
     overflow: scroll;
 }
+.game-Switch {
+    background-color: red
+}
+.game-PS4 {
+    background-color: blue
+}
+.game-XBox1 {
+    background-color: green
+}
+.game-PC {
+    background-color: teal
+}
